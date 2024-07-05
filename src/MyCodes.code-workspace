@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../WTF"
+		},
+		{
+			"path": "../../../../../../Pictures/kk"
+		},
+		{
+			"path": "../../../huzalabs"
+		},
+		{
+			"path": "../../../Ml"
+		},
+		{
+			"path": "../../../ALx"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "practices"
+	}
+}
